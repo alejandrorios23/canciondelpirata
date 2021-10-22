@@ -1,0 +1,27 @@
+@font-face {
+    font-family: caligrafia;
+    src: url("../Fonts/AlexBrush-Regular.ttf");
+}
+
+body
+ {font-family: caligrafia;
+    font-size: 1.5em;
+    margin: 0;
+     padding: 0;
+    
+ }
+ #container {
+     background-image: url("../Imagenes/6796-piratas-del-caribe.jpg");
+    background-position: left;
+     width: 80%;
+     margin: auto;
+     padding: 100px;
+    }
+
+ #poema {background-color: rgba(194, 161, 55, 0.589);
+    text-align: center;
+    border-radius: 1000px;
+    margin: 5vh auto;
+    width: 300px;
+        padding: 20px;
+         margin: auto;}
